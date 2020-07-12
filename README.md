@@ -1,6 +1,9 @@
 ### Hi,this is Rishabh 👋
-<img src="https://unsplash.com/photos/vEE00Hx5d0Q">
+<img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80" width="100%" height="450px">
 I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
+
+# Repository description
+- 🔭<a href="https://github.com/Rish7223/ChatBot-JavaScript">ChatBot(javascript)</a>: This is my first working javascript project which is loke a google assitent, you can ask some queries to it.
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
