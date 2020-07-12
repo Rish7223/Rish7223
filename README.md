@@ -1,5 +1,5 @@
 ### Hi,this is Rishabh 👋
-<img src="https://unsplash.com/photos/vEE00Hx5d0Q" alt="just a profile pic">
+<img src="https://unsplash.com/photos/vEE00Hx5d0Q">
 I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
