@@ -1,9 +1,21 @@
-### Hi,this is Rishabh 👋
 <img src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" width="100%" height="450px" alt="Photo by Ramón Salinero on Unsplash">
+# Hi,this is Rishabh 👋
 I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
 
-# Repository description
+## 🔭 I’m currently working on or learning
+* React
+* nodejs
+* firebase
+* API's
+* full stack development
+
+##  📫 How to reach me:
+* Linkedin: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">rishabh-tyagi-a565771a2</a>
+
+## Repositories description
 - 🔭<a href="https://github.com/Rish7223/ChatBot-JavaScript">ChatBot(javascript)</a>: This is my first working JavaScript project which is like a google assistant, you can ask some queries to it.
+
+- <a href="https://github.com/Rish7223/todo-app">React-todo-app</a>: A simple and interactive to-do list build using React and Firebase.
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
