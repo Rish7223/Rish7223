@@ -1,5 +1,7 @@
 <img src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" width="100%" height="450px" alt="Photo by Ramón Salinero on Unsplash">
-# Hi,this is Rishabh 👋.
+
+## Hi,this is Rishabh 👋.
+
 I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
 
 ## 🔭 I’m currently working on or learning
