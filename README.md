@@ -1,4 +1,4 @@
-<img src="webdev.png" width="80%" height="450px">
+<img src="webdev.png" width="100%" height="380px">
 
 ## Hi,this is Rishabh 👋.
 
