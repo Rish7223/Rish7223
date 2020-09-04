@@ -4,14 +4,14 @@
 
 I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
 
-## 🔭 I’m currently working on or learning
+## 🔭 I’m currently working on and learning
 * React
 * nodejs
 * firebase
 * API's
 * full stack development
 
-##  📫 How to reach me:
+##  📫 Reach to me:
 * Linkedin: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">rishabh-tyagi-a565771a2</a>
 
 ## Repositories description
@@ -20,9 +20,7 @@ I'm currently learning🌱 web development and created some basic but self promi
 - <a href="https://github.com/Rish7223/todo-app">React-todo-app</a>: A simple and interactive to-do list build using React and Firebase.
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
