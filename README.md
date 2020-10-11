@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80" width="100%" height="40%">
+<img src="https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80" width="100%" height="30%">
 
 ## Hi,this is Rishabh 👋.
 
