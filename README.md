@@ -1,23 +1,16 @@
-<img src="https://images.unsplash.com/photo-1587929651402-ce54a2b3af41?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80" width="100%" height="30%">
-
 ## Hi,this is Rishabh 👋.
 
-I'm currently learning🌱 web development and created some basic but self promising projects (check out repo's). I'm also an open source enthusiast and musician.
+I'm currently learning🌱 web development and created some basic projects (check out repo's). I'm also an open source enthusiast and musician.
 
-## 🔭 I’m currently working on and learning
-* React
-* nodejs
-* firebase
-* API's
-* full stack development
+## Here are some ideas of about me:
+- 🔭 I’m currently working on MERN Stack.
+- 🏫 I’m currently learning Reactjs, JavaScript, mongodb.
+- 👯 I’m looking to collaborate on open-source.
+- 🤔 I’m looking for help with UI-design & deployment.
+- 💬 Ask me about basics of MERN stack.
+- 📫 How to reach me: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">Linkedin</a>
+- ⚡ Fun fact: ui-design is a pain😒.
 
-##  📫 Reach to me:
-* Linkedin: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">rishabh-tyagi-a565771a2</a>
-
-## Repositories description
-- 🔭<a href="https://github.com/Rish7223/ChatBot-JavaScript">ChatBot(javascript)</a>: This is my first working JavaScript project which is like a google assistant, you can ask some queries to it.
-
-- <a href="https://github.com/Rish7223/todo-app">React-todo-app</a>: A simple and interactive to-do list build using React and Firebase.
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
