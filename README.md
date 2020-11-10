@@ -11,8 +11,7 @@ I'm currently learning🌱 web development and created some basic projects (chec
 - 📫 How to reach me: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">Linkedin</a>
 - ⚡ Fun fact: ui-design is a pain😒.
 
-
-https://github-readme-stats.vercel.app/api?username=rish7223
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish7223)
 
 <!--
 **Rish7223/Rish7223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
