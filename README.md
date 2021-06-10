@@ -1,15 +1,27 @@
 ## Hi,this is Rishabh 👋.
 
-I'm currently learning🌱 web development and created some basic projects (check out repo's). I'm also an open source enthusiast and musician.
+Experienced web developer with a strong background in developing Scalable & reliable product. Passionate about building first-class web applications. 2+ years of industry experience includes programming, debugging, and wireframes.
 
-## Here are some ideas to get you started:
-- 🔭 I’m currently working on MERN Stack.
-- 🏫 I’m currently learning Reactjs, JavaScript, mongodb.
-- 👯 I’m looking to collaborate on open-source.
-- 🤔 I’m looking for help with UI-design & deployment.
-- 💬 Ask me about basics of MERN stack.
-- 📫 How to reach me: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">Linkedin</a>
-- ⚡ Fun fact: ui-design is a pain😒.
+## My Tech Stack
+- #### 🔭 Front-end
+  - ReactJS 
+  - NextJs & getsby (server side renderd application)
+  - pug template engine (server based application).
+  
+- #### ⚡ Styling
+  - Styled-Components
+  - Tailwindcss
+  - Saas
+  - css-Module
+
+- #### 🏫 backend
+  - NodeJS(Express)
+  - Firebase
+ 
+#### desiging and wireframing using figma & dribbble resources.
+
+## 📫 How to reach me: <a href="https://in.linkedin.com/in/rishabh-tyagi-a565771a2">Linkedin</a>
+
 
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rish7223&show_icons=true&theme=dark)
